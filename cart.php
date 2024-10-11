@@ -41,7 +41,7 @@ $total = 0;
 <body>
   <nav class="navbar navbar-expand-lg bg-light" >
     <div class="container-fluid">
-      <img src="structures/imgs/logo.png" width="80" height="80"/>
+      <img src="logo.png" width="80" height="80"/>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
