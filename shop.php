@@ -48,21 +48,21 @@
         </div>
         <div class="row mx-auto container-fluid">
             <div class="product text-center col-lg-3">
-              <img class="img-fluid mb-3" src="structures/imgs/shampoo.png">
+              <img class="img-fluid mb-3" src="shampoo.png">
               <h3 class="p-name">Curleen Shampoo</h3>
               <h4 class="p-price">Rp.70.000</h4>
               <a href="product_description.php?id=1" class="btn buy-btn">View Details</a>
           </div>
 
             <div class="product text-center col-lg-3">
-                <img class="img-fluid mb-3" src="structures/imgs/conditioner.png">
+                <img class="img-fluid mb-3" src="conditioner.png">
                 <h3 class="p-name">Curleen Conditioner</h3>
                 <h4 class="p-price">Rp.85.000</h4>
                 <a href="product_description.php?id=2" class="btn buy-btn">View Details</a>
             </div>
 
             <div class="product text-center col-lg-3">
-                <img class="img-fluid mb-3" src="structures/imgs/hair oil.png">
+                <img class="img-fluid mb-3" src="hair oil.png">
                 <h3 class="p-name">Curleen Hair Oil</h3>
                 <h4 class="p-price">Rp.53.000</h4>
                 <a href="product_description.php?id=3" class="btn buy-btn">View Details</a>
