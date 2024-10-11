@@ -5,19 +5,19 @@ $products = [
     1 => [
         'name' => 'Curleen Shampoo',
         'price' => 70000,
-        'image' => 'structures/imgs/shampoo.png',
+        'image' => 'shampoo.png',
         'description' => 'Ingredients: Aloe Vera Gel, Castile Soap, Honey, Essential Oil, Apple Cider Vinegar, Vitamin E'
     ],
     2 => [
         'name' => 'Curleen Conditioner',
         'price' => 85000,
-        'image' => 'structures/imgs/conditioner.png',
+        'image' => 'conditioner.png',
         'description' => 'Ingredients: Coconut Oil, Coconut Milk, Honey, Essential Oil, Vitamin E'
     ],
     3 => [
         'name' => 'Curleen Hair Oil',
         'price' => 53000,
-        'image' => 'structures/imgs/hair oil.png',
+        'image' => 'hair oil.png',
         'description' => 'Ingredients: Candlenut Oil, Argan Oil, Coconut Oil, Rosemary Oil, Tea Tree Oil'
     ]
 ];
